@@ -1,3 +1,7 @@
+# Tic Tac Toe Game
+  
+   This project is a tic tac toe game with reset game functionality and clear visual feedback for current turn and result
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
