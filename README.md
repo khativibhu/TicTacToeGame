@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
   
-   This project is a tic tac toe 3*3 board game with reset game functionality and clear visual feedback for current turn and result.
+   This project is a tic tac toe 3 X 3 board game with reset game functionality and clear visual feedback for current turn and result.
 
 # React + Vite
 
